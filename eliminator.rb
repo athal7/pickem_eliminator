@@ -2,7 +2,7 @@ require 'csv'
 
 DATA = CSV.open("win_probabilities.csv", headers: true, header_converters: :symbol).read
 CURRENT_WEEK = ENV.fetch("CURRENT_WEEK", 1).to_i
-ITERATIONS = ENV.fetch("ITERATIONS", 1000000).to_i
+ITERATIONS = ENV.fetch("ITERATIONS", 100000).to_i
 ALREADY_PICKED = ENV.fetch("ALREADY_PICKED", "").split(",")
 
 class Eliminator

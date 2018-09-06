@@ -1,513 +1,513 @@
 team,probability,week
-Miami,47,8
-Baltimore,53,8
-Minnesota,84,8
-Cleveland,16,8
-Atlanta,60,8
-N.Y. Jets,40,8
-Carolina,45,8
-Tampa Bay,55,8
-Chicago,21,8
-New Orleans,79,8
-Indianapolis,30,8
-Cincinnati,70,8
-L.A. Chargers,16,8
-New England,84,8
-Oakland,34,8
-Buffalo,66,8
-San Francisco,10,8
-Philadelphia,90,8
-Houston,27,8
-Seattle,73,8
-Dallas,48,8
-Washington,52,8
-Pittsburgh,52,8
-Detroit,48,8
-Denver,22,8
-Kansas City,78,8
-Buffalo,54,9
-N.Y. Jets,46,9
-Atlanta,53,9
-Carolina,47,9
-Baltimore,39,9
-Tennessee,61,9
-Cincinnati,38,9
-Jacksonville,62,9
-Denver,27,9
-Philadelphia,73,9
-Indianapolis,27,9
-Houston,73,9
-L.A. Rams,49,9
-N.Y. Giants,51,9
-Tampa Bay,25,9
-New Orleans,75,9
-Arizona,65,9
-San Francisco,35,9
-Washington,28,9
-Seattle,72,9
-Kansas City,55,9
-Dallas,45,9
-Oakland,38,9
+Atlanta,35,1
+Philadelphia,65,1
+Buffalo,36,1
+Baltimore,64,1
+Cincinnati,50,1
+Indianapolis,50,1
+Houston,14,1
+New England,86,1
+Jacksonville,58,1
+N.Y. Giants,42,1
+Pittsburgh,79,1
+Cleveland,21,1
+San Francisco,24,1
+Minnesota,76,1
+Tampa Bay,26,1
+New Orleans,74,1
+Tennessee,47,1
+Miami,53,1
+Kansas City,44,1
+L.A. Chargers,56,1
+Dallas,40,1
+Carolina,60,1
+Seattle,54,1
+Denver,46,1
+Washington,39,1
+Arizona,61,1
+Chicago,37,1
+Green Bay,63,1
+N.Y. Jets,29,1
+Detroit,71,1
+L.A. Rams,50,1
+Oakland,50,1
+Baltimore,49,2
+Cincinnati,51,2
+Carolina,34,2
+Atlanta,66,2
+Cleveland,12,2
+New Orleans,88,2
+Houston,28,2
+Tennessee,72,2
+Indianapolis,32,2
+Washington,68,2
+Kansas City,37,2
+Pittsburgh,63,2
+L.A. Chargers,47,2
+Buffalo,53,2
+Miami,43,2
+N.Y. Jets,57,2
+Minnesota,59,2
+Green Bay,41,2
+Philadelphia,66,2
+Tampa Bay,34,2
+Arizona,34,2
+L.A. Rams,66,2
+Detroit,48,2
+San Francisco,52,2
+New England,57,2
+Jacksonville,43,2
+Oakland,43,2
+Denver,57,2
+N.Y. Giants,24,2
+Dallas,76,2
+Seattle,55,2
+Chicago,45,2
+N.Y. Jets,59,3
+Cleveland,41,3
+Buffalo,28,3
+Minnesota,72,3
+Cincinnati,31,3
+Carolina,69,3
+Denver,30,3
+Baltimore,70,3
+Green Bay,41,3
+Washington,59,3
+Indianapolis,15,3
+Philadelphia,85,3
+New Orleans,39,3
+Atlanta,61,3
+N.Y. Giants,43,3
+Houston,57,3
+Oakland,43,3
+Miami,57,3
+San Francisco,28,3
+Kansas City,72,3
+Tennessee,35,3
+Jacksonville,65,3
+L.A. Chargers,43,3
+L.A. Rams,57,3
+Chicago,35,3
+Arizona,65,3
+Dallas,41,3
+Seattle,59,3
+New England,59,3
+Detroit,41,3
+Pittsburgh,59,3
+Tampa Bay,41,3
+Minnesota,51,4
+L.A. Rams,49,4
+Buffalo,45,4
+Green Bay,55,4
+Cincinnati,25,4
+Atlanta,75,4
+Detroit,38,4
+Dallas,62,4
+Houston,39,4
+Indianapolis,61,4
+Miami,18,4
+New England,82,4
+N.Y. Jets,28,4
+Jacksonville,72,4
+Philadelphia,62,4
+Tennessee,38,4
+Tampa Bay,44,4
+Chicago,56,4
+Cleveland,21,4
+Oakland,79,4
+Seattle,50,4
+Arizona,50,4
+New Orleans,65,4
+N.Y. Giants,35,4
+San Francisco,31,4
+L.A. Chargers,69,4
+Baltimore,33,4
+Pittsburgh,67,4
+Kansas City,58,4
+Denver,42,4
+Indianapolis,14,5
+New England,86,5
+Atlanta,41,5
+Pittsburgh,59,5
+Baltimore,72,5
+Cleveland,28,5
+Denver,43,5
+N.Y. Jets,57,5
+Green Bay,34,5
+Detroit,66,5
+Jacksonville,36,5
+Kansas City,64,5
+Miami,37,5
+Cincinnati,63,5
+N.Y. Giants,24,5
+Carolina,76,5
+Tennessee,40,5
+Buffalo,60,5
+Oakland,30,5
+L.A. Chargers,70,5
+Arizona,43,5
+San Francisco,57,5
+L.A. Rams,39,5
+Seattle,61,5
+Minnesota,35,5
+Philadelphia,65,5
+Dallas,62,5
+Houston,38,5
+Washington,26,5
+New Orleans,74,5
+Philadelphia,73,6
+N.Y. Giants,27,6
+Arizona,26,6
+Minnesota,74,6
+Buffalo,56,6
+Houston,44,6
+Carolina,52,6
+Washington,48,6
+Chicago,40,6
+Miami,60,6
+Indianapolis,37,6
+N.Y. Jets,63,6
+L.A. Chargers,74,6
+Cleveland,26,6
+Pittsburgh,58,6
+Cincinnati,42,6
+Seattle,61,6
+Oakland,39,6
+Tampa Bay,24,6
+Atlanta,76,6
+L.A. Rams,52,6
+Denver,48,6
+Baltimore,46,6
+Tennessee,54,6
+Jacksonville,39,6
+Dallas,61,6
+Kansas City,30,6
+New England,70,6
+San Francisco,40,6
+Green Bay,60,6
+Denver,36,7
+Arizona,64,7
+Tennessee,43,7
+L.A. Chargers,57,7
+Buffalo,54,7
+Indianapolis,46,7
+Carolina,28,7
+Philadelphia,72,7
+Cincinnati,28,7
+Kansas City,72,7
+Cleveland,21,7
+Tampa Bay,79,7
+Detroit,51,7
+Miami,49,7
+Houston,24,7
+Jacksonville,76,7
+Minnesota,65,7
+N.Y. Jets,35,7
+New England,69,7
+Chicago,31,7
+New Orleans,48,7
+Baltimore,52,7
+Dallas,52,7
+Washington,48,7
+L.A. Rams,49,7
+San Francisco,51,7
+N.Y. Giants,19,7
+Atlanta,81,7
+Miami,48,8
+Houston,52,8
+Philadelphia,66,8
+Jacksonville,34,8
+Baltimore,39,8
+Carolina,61,8
+Cleveland,11,8
+Pittsburgh,89,8
+Denver,26,8
+Kansas City,74,8
+N.Y. Jets,39,8
+Chicago,61,8
+Seattle,44,8
+Detroit,56,8
+Tampa Bay,40,8
+Cincinnati,60,8
+Washington,49,8
+N.Y. Giants,51,8
+Indianapolis,33,8
+Oakland,67,8
+Green Bay,33,8
+L.A. Rams,67,8
+San Francisco,39,8
+Arizona,61,8
+New Orleans,38,8
+Minnesota,62,8
+New England,62,8
+Buffalo,38,8
+Oakland,40,9
+San Francisco,60,9
+Atlanta,59,9
+Washington,41,9
+Chicago,33,9
+Buffalo,67,9
+Detroit,30,9
+Minnesota,70,9
+Kansas City,76,9
+Cleveland,24,9
+N.Y. Jets,38,9
 Miami,62,9
-Detroit,36,9
-Green Bay,64,9
-Seattle,61,10
-Arizona,39,10
-Cincinnati,41,10
-Tennessee,59,10
-Cleveland,13,10
-Detroit,87,10
-Green Bay,59,10
-Chicago,41,10
-L.A. Chargers,37,10
-Jacksonville,63,10
-Minnesota,48,10
-Washington,52,10
-New Orleans,48,10
-Buffalo,52,10
-N.Y. Jets,38,10
-Tampa Bay,62,10
-Pittsburgh,70,10
-Indianapolis,30,10
-Houston,38,10
-L.A. Rams,62,10
-Dallas,37,10
-Atlanta,63,10
-N.Y. Giants,64,10
-San Francisco,36,10
-New England,67,10
-Denver,33,10
-Miami,42,10
-Carolina,58,10
-Tennessee,25,11
-Pittsburgh,75,11
-Arizona,36,11
-Houston,64,11
-Baltimore,28,11
-Green Bay,72,11
-Detroit,55,11
-Chicago,45,11
-Jacksonville,73,11
-Cleveland,27,11
-Kansas City,69,11
-N.Y. Giants,31,11
-L.A. Rams,35,11
-Minnesota,65,11
-Tampa Bay,35,11
-Miami,65,11
-Washington,30,11
-New Orleans,70,11
-Buffalo,51,11
-L.A. Chargers,49,11
-Cincinnati,38,11
-Denver,62,11
-New England,76,11
-Oakland,24,11
-Philadelphia,48,11
-Dallas,52,11
-Atlanta,39,11
-Seattle,61,11
-Minnesota,45,12
-Detroit,55,12
-L.A. Chargers,29,12
-Dallas,71,12
-N.Y. Giants,34,12
-Washington,66,12
-Buffalo,26,12
-Kansas City,74,12
-Carolina,48,12
-N.Y. Jets,52,12
-Chicago,20,12
-Philadelphia,80,12
-Cleveland,17,12
-Cincinnati,83,12
-Miami,20,12
-New England,80,12
-Tampa Bay,26,12
-Atlanta,74,12
-Tennessee,53,12
-Indianapolis,47,12
-New Orleans,52,12
-L.A. Rams,48,12
-Seattle,81,12
-San Francisco,19,12
-Denver,42,12
-Oakland,58,12
-Jacksonville,46,12
-Arizona,54,12
-Green Bay,34,12
-Pittsburgh,66,12
+Pittsburgh,49,9
+Baltimore,51,9
+Tampa Bay,30,9
+Carolina,70,9
+Houston,34,9
+Denver,66,9
+L.A. Chargers,41,9
+Seattle,59,9
+L.A. Rams,33,9
+New Orleans,67,9
+Green Bay,20,9
+New England,80,9
+Tennessee,34,9
+Dallas,66,9
+Carolina,35,10
+Pittsburgh,65,10
+Arizona,29,10
+Kansas City,71,10
+Atlanta,79,10
+Cleveland,21,10
+Buffalo,51,10
+N.Y. Jets,49,10
+Detroit,52,10
+Chicago,48,10
+Jacksonville,59,10
+Indianapolis,41,10
+Miami,38,10
+Green Bay,62,10
+New England,63,10
+Tennessee,37,10
+New Orleans,56,10
+Cincinnati,44,10
+Washington,41,10
+Tampa Bay,59,10
+L.A. Chargers,52,10
+Oakland,48,10
+Seattle,43,10
+L.A. Rams,57,10
+Dallas,28,10
+Philadelphia,72,10
+N.Y. Giants,33,10
+San Francisco,67,10
+Green Bay,31,11
+Seattle,69,11
+Carolina,44,11
+Detroit,56,11
+Cincinnati,33,11
+Baltimore,67,11
+Dallas,34,11
+Atlanta,66,11
+Houston,31,11
+Washington,69,11
+Minnesota,63,11
+Chicago,37,11
+Philadelphia,50,11
+New Orleans,50,11
+Tampa Bay,49,11
+N.Y. Giants,51,11
+Tennessee,53,11
+Indianapolis,47,11
+Denver,29,11
+L.A. Chargers,71,11
+Oakland,38,11
+Arizona,62,11
+Pittsburgh,49,11
+Jacksonville,51,11
+Kansas City,56,11
+L.A. Rams,44,11
+Chicago,30,12
+Detroit,70,12
+Washington,31,12
+Dallas,69,12
+Atlanta,43,12
+New Orleans,57,12
+Cleveland,20,12
+Cincinnati,80,12
+Jacksonville,45,12
+Buffalo,55,12
+Miami,47,12
+Indianapolis,53,12
+New England,71,12
+N.Y. Jets,29,12
+N.Y. Giants,15,12
+Philadelphia,85,12
+Oakland,31,12
+Baltimore,69,12
+Seattle,40,12
+Carolina,60,12
+San Francisco,41,12
+Tampa Bay,59,12
+Arizona,32,12
+L.A. Chargers,68,12
+Pittsburgh,61,12
+Denver,39,12
+Green Bay,25,12
+Minnesota,75,12
+Tennessee,55,12
 Houston,45,12
-Baltimore,55,12
-Washington,34,13
-Dallas,66,13
-Carolina,29,13
-New Orleans,71,13
-Denver,39,13
-Miami,61,13
-Detroit,50,13
-Baltimore,50,13
-Houston,44,13
-Tennessee,56,13
-Indianapolis,27,13
-Jacksonville,73,13
-Kansas City,70,13
-N.Y. Jets,30,13
-Minnesota,37,13
-Atlanta,63,13
-New England,62,13
-Buffalo,38,13
-San Francisco,23,13
-Chicago,77,13
-Tampa Bay,29,13
-Green Bay,71,13
-Cleveland,17,13
-L.A. Chargers,83,13
-L.A. Rams,48,13
-Arizona,52,13
-N.Y. Giants,36,13
-Oakland,64,13
-Philadelphia,42,13
-Seattle,58,13
-Pittsburgh,59,13
-Cincinnati,41,13
-New Orleans,41,14
+New Orleans,46,13
+Dallas,54,13
+Arizona,42,13
+Green Bay,58,13
+Baltimore,32,13
+Atlanta,68,13
+Buffalo,48,13
+Miami,52,13
+Carolina,52,13
+Tampa Bay,48,13
+Chicago,45,13
+N.Y. Giants,55,13
+Cleveland,28,13
+Houston,72,13
+Denver,37,13
+Cincinnati,63,13
+Indianapolis,25,13
+Jacksonville,75,13
+L.A. Chargers,34,13
+Pittsburgh,66,13
+L.A. Rams,42,13
+Detroit,58,13
+Kansas City,56,13
+Oakland,44,13
+N.Y. Jets,32,13
+Tennessee,68,13
+Minnesota,34,13
+New England,66,13
+San Francisco,31,13
+Seattle,69,13
+Washington,20,13
+Philadelphia,80,13
+Jacksonville,46,14
+Tennessee,54,14
 Atlanta,59,14
-Chicago,34,14
-Cincinnati,66,14
-Detroit,49,14
-Tampa Bay,51,14
-Green Bay,79,14
-Cleveland,21,14
-Indianapolis,23,14
-Buffalo,77,14
+Green Bay,41,14
+Baltimore,36,14
+Kansas City,64,14
+Carolina,74,14
+Cleveland,26,14
+Indianapolis,42,14
+Houston,58,14
+L.A. Rams,53,14
+Chicago,47,14
+New England,69,14
+Miami,31,14
+New Orleans,57,14
+Tampa Bay,43,14
+N.Y. Giants,33,14
+Washington,67,14
+N.Y. Jets,32,14
+Buffalo,68,14
+Cincinnati,31,14
+L.A. Chargers,69,14
+Denver,38,14
+San Francisco,62,14
+Detroit,47,14
+Arizona,53,14
+Philadelphia,55,14
+Dallas,45,14
+Pittsburgh,59,14
+Oakland,41,14
 Minnesota,49,14
-Carolina,51,14
-Oakland,20,14
-Kansas City,80,14
-Seattle,55,14
-Jacksonville,45,14
-San Francisco,17,14
-Houston,83,14
-N.Y. Jets,34,14
-Denver,66,14
-Tennessee,43,14
-Arizona,57,14
-Washington,46,14
-L.A. Chargers,54,14
-Dallas,55,14
-N.Y. Giants,45,14
-Philadelphia,54,14
-L.A. Rams,46,14
-Baltimore,23,14
-Pittsburgh,77,14
-New England,66,14
-Miami,34,14
-Denver,56,15
-Indianapolis,44,15
-Chicago,28,15
-Detroit,72,15
-L.A. Chargers,19,15
-Kansas City,81,15
-Arizona,35,15
-Washington,65,15
+Seattle,51,14
+L.A. Chargers,37,15
+Kansas City,63,15
+Cleveland,23,15
+Denver,77,15
+Houston,36,15
+N.Y. Jets,64,15
+Arizona,26,15
+Atlanta,74,15
+Dallas,61,15
+Indianapolis,39,15
+Detroit,44,15
+Buffalo,56,15
+Green Bay,45,15
+Chicago,55,15
+Miami,22,15
+Minnesota,78,15
+Oakland,39,15
+Cincinnati,61,15
+Tampa Bay,32,15
 Baltimore,68,15
-Cleveland,32,15
-Cincinnati,30,15
-Minnesota,70,15
-Green Bay,49,15
-Carolina,51,15
-Houston,40,15
-Jacksonville,60,15
-Miami,37,15
-Buffalo,63,15
-N.Y. Jets,23,15
-New Orleans,77,15
-Philadelphia,62,15
-N.Y. Giants,38,15
-L.A. Rams,29,15
-Seattle,71,15
-New England,53,15
-Pittsburgh,47,15
-Tennessee,67,15
-San Francisco,33,15
-Dallas,51,15
-Oakland,49,15
-Atlanta,58,15
-Tampa Bay,42,15
-Indianapolis,31,16
-Baltimore,69,16
-Minnesota,40,16
-Green Bay,60,16
-Atlanta,40,16
-New Orleans,60,16
+Tennessee,53,15
+N.Y. Giants,47,15
+Washington,32,15
+Jacksonville,68,15
+Seattle,52,15
+San Francisco,48,15
+New England,49,15
+Pittsburgh,51,15
+Philadelphia,57,15
+L.A. Rams,43,15
+New Orleans,46,15
+Carolina,54,15
+Atlanta,48,16
+Carolina,52,16
 Buffalo,23,16
 New England,77,16
-Cleveland,21,16
-Chicago,79,16
-Denver,40,16
-Washington,60,16
+Cincinnati,65,16
+Cleveland,35,16
+Green Bay,46,16
+N.Y. Jets,54,16
+Houston,14,16
+Philadelphia,86,16
+Jacksonville,53,16
+Miami,47,16
+Minnesota,52,16
 Detroit,48,16
-Cincinnati,52,16
-L.A. Chargers,44,16
-N.Y. Jets,56,16
-L.A. Rams,46,16
-Tennessee,54,16
-Miami,23,16
-Kansas City,77,16
-Tampa Bay,36,16
-Carolina,64,16
-Jacksonville,70,16
-San Francisco,30,16
-N.Y. Giants,40,16
-Arizona,60,16
-Seattle,47,16
-Dallas,53,16
-Pittsburgh,56,16
-Houston,44,16
-Oakland,26,16
-Philadelphia,74,16
-Buffalo,45,17
-Miami,55,17
-Carolina,29,17
-Atlanta,71,17
-Chicago,25,17
-Minnesota,75,17
-Cincinnati,43,17
-Baltimore,57,17
-Cleveland,9,17
-Pittsburgh,91,17
-Dallas,34,17
-Philadelphia,66,17
-Green Bay,45,17
-Detroit,55,17
-Houston,56,17
-Indianapolis,44,17
-Jacksonville,44,17
-Tennessee,56,17
-New Orleans,58,17
-Tampa Bay,42,17
-N.Y. Jets,15,17
-New England,85,17
-Washington,48,17
-N.Y. Giants,52,17
-Arizona,23,17
-Seattle,77,17
-Kansas City,63,17
-Denver,37,17
-Oakland,43,17
-L.A. Chargers,57,17
-San Francisco,16,17
-L.A. Rams,84,17
-Kansas City,67,7
-Oakland,33,7
-Arizona,53,7
-L.A. Rams,47,7
-Baltimore,32,7
-Minnesota,68,7
-Carolina,61,7
-Chicago,39,7
-Jacksonville,45,7
-Indianapolis,55,7
-New Orleans,37,7
-Green Bay,63,7
-N.Y. Jets,35,7
-Miami,65,7
-Tampa Bay,33,7
-Buffalo,67,7
-Tennessee,68,7
-Cleveland,32,7
-Dallas,73,7
-San Francisco,27,7
-Cincinnati,28,7
-Pittsburgh,72,7
-Denver,55,7
-L.A. Chargers,45,7
-Seattle,54,7
-N.Y. Giants,46,7
-Atlanta,32,7
-New England,68,7
-Washington,31,7
-Philadelphia,69,7
-Philadelphia,43,6
-Carolina,57,6
-Chicago,25,6
-Baltimore,75,6
-Cleveland,17,6
-Houston,83,6
-Detroit,42,6
-New Orleans,58,6
-Green Bay,56,6
-Minnesota,44,6
-Miami,22,6
-Atlanta,78,6
-New England,67,6
-N.Y. Jets,33,6
-San Francisco,17,6
-Washington,83,6
-L.A. Rams,34,6
-Jacksonville,66,6
-Tampa Bay,42,6
-Arizona,58,6
-L.A. Chargers,32,6
-Oakland,68,6
-Pittsburgh,23,6
-Kansas City,77,6
-N.Y. Giants,23,6
-Denver,77,6
-Indianapolis,41,6
-Tennessee,59,6
-New England,61,5
-Tampa Bay,39,5
-Arizona,35,5
-Philadelphia,65,5
-Buffalo,51,5
-Cincinnati,49,5
-Carolina,37,5
-Detroit,63,5
-Jacksonville,20,5
-Pittsburgh,80,5
-L.A. Chargers,32,5
-N.Y. Giants,68,5
-N.Y. Jets,65,5
-Cleveland,35,5
-San Francisco,25,5
-Indianapolis,75,5
-Tennessee,41,5
-Miami,59,5
-Baltimore,32,5
-Oakland,68,5
-Seattle,55,5
-L.A. Rams,45,5
-Green Bay,47,5
-Dallas,53,5
-Kansas City,67,5
-Houston,33,5
-Minnesota,58,5
-Chicago,42,5
-Chicago,18,4
-Green Bay,82,4
-New Orleans,53,4
-Miami,47,4
-Buffalo,23,4
-Atlanta,77,4
-Carolina,22,4
-New England,78,4
-Cincinnati,60,4
-Cleveland,40,4
-Detroit,43,4
-Minnesota,57,4
-Jacksonville,41,4
-N.Y. Jets,59,4
-L.A. Rams,22,4
-Dallas,78,4
-Pittsburgh,55,4
-Baltimore,45,4
-Tennessee,45,4
-Houston,55,4
-N.Y. Giants,37,4
-Tampa Bay,63,4
-Philadelphia,60,4
-L.A. Chargers,40,4
-San Francisco,19,4
-Arizona,81,4
-Oakland,37,4
-Denver,63,4
-Indianapolis,31,4
-Seattle,69,4
-Washington,22,4
-Kansas City,78,4
-L.A. Rams,53,3
-San Francisco,47,3
-Baltimore,70,3
-Jacksonville,30,3
-Atlanta,53,3
-Detroit,47,3
-Cleveland,24,3
-Indianapolis,76,3
-Denver,55,3
-Buffalo,45,3
-Houston,18,3
-New England,82,3
-Miami,55,3
-N.Y. Jets,45,3
-New Orleans,28,3
-Carolina,72,3
-N.Y. Giants,34,3
-Philadelphia,66,3
-Pittsburgh,76,3
-Chicago,24,3
-Tampa Bay,43,3
-Minnesota,57,3
-Seattle,53,3
-Tennessee,47,3
-Cincinnati,25,3
-Green Bay,75,3
-Kansas City,74,3
-L.A. Chargers,26,3
-Oakland,51,3
-Washington,49,3
-Dallas,45,3
-Arizona,55,3
-Houston,37,2
-Cincinnati,63,2
-Arizona,47,2
-Indianapolis,53,2
-Buffalo,34,2
-Carolina,66,2
-Chicago,24,2
-Tampa Bay,76,2
-Cleveland,18,2
-Baltimore,82,2
-Minnesota,29,2
-Pittsburgh,71,2
-New England,64,2
-New Orleans,36,2
-Philadelphia,27,2
-Kansas City,73,2
-Tennessee,41,2
-Jacksonville,59,2
-Miami,52,2
-L.A. Chargers,48,2
-N.Y. Jets,26,2
-Oakland,74,2
-Dallas,44,2
-Denver,56,2
-San Francisco,16,2
-Seattle,84,2
-Washington,45,2
-L.A. Rams,55,2
-Green Bay,37,2
-Atlanta,63,2
-Detroit,43,2
-N.Y. Giants,57,2
-Kansas City,31,1
-New England,69,1
-Arizona,46,1
-Detroit,54,1
-Atlanta,72,1
-Chicago,28,1
-Baltimore,37,1
-Cincinnati,63,1
-Jacksonville,26,1
-Houston,74,1
-N.Y. Jets,36,1
-Buffalo,64,1
-Oakland,51,1
-Tennessee,49,1
-Philadelphia,42,1
-Washington,58,1
-Pittsburgh,76,1
-Cleveland,24,1
-Indianapolis,57,1
-L.A. Rams,43,1
-Carolina,65,1
-San Francisco,35,1
-Seattle,39,1
-Green Bay,61,1
-N.Y. Giants,35,1
-Dallas,65,1
-New Orleans,41,1
-Minnesota,59,1
-L.A. Chargers,26,1
-Denver,74,1
+N.Y. Giants,41,16
+Indianapolis,59,16
+Tampa Bay,31,16
+Dallas,69,16
+Washington,37,16
+Tennessee,63,16
+Baltimore,39,16
+L.A. Chargers,61,16
+Chicago,37,16
+San Francisco,63,16
+L.A. Rams,47,16
+Arizona,53,16
+Pittsburgh,42,16
+New Orleans,58,16
+Kansas City,44,16
+Seattle,56,16
+Denver,39,16
+Oakland,61,16
+Atlanta,59,17
+Tampa Bay,41,17
+Carolina,36,17
+New Orleans,64,17
+Chicago,22,17
+Minnesota,78,17
+Cincinnati,26,17
+Pittsburgh,74,17
+Cleveland,15,17
+Baltimore,85,17
+Dallas,60,17
+N.Y. Giants,40,17
+Detroit,48,17
+Green Bay,52,17
+Indianapolis,29,17
+Tennessee,71,17
+Jacksonville,60,17
+Houston,40,17
+Miami,34,17
+Buffalo,66,17
+N.Y. Jets,16,17
+New England,84,17
+Oakland,27,17
+Kansas City,73,17
+Philadelphia,65,17
+Washington,35,17
+Arizona,32,17
+Seattle,68,17
+L.A. Chargers,54,17
+Denver,46,17
+San Francisco,33,17
+L.A. Rams,67,17

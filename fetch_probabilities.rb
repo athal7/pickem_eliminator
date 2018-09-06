@@ -8,7 +8,7 @@ gemfile(true) do
 end
 
 class WinProbabilities
-  YEAR = 2017
+  YEAR = 2018
   URL = "https://projects.fivethirtyeight.com/#{YEAR}-nfl-predictions/games/"
 
   class << self
